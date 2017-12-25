@@ -1,0 +1,22 @@
+{
+  "name": "language-fm-pug",
+  "main": "./lib/language-fm-pug",
+  "version": "1.0.0",
+  "description": "Adds Front Matter support. Useful for using pug in static site generation.",
+  "keywords": [
+    'pug',
+    'front matter',
+    'language',
+    'extension'
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-fm-pug:toggle"
+  },
+  "repository": "https://github.com/atom/language-fm-pug",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
