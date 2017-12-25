@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "description": "Adds Front Matter support. Useful for using pug in static site generation.",
   "keywords": [
-    'pug',
-    'front matter',
-    'language',
-    'extension'
+    "pug",
+    "front matter",
+    "language",
+    "extension"
   ],
   "activationCommands": {
     "atom-workspace": "language-fm-pug:toggle"
