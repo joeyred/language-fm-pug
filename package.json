@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "language-fm-pug:toggle"
   },
-  "repository": "https://github.com/atom/language-fm-pug",
+  "repository": "https://github.com/joeyred/language-fm-pug",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
