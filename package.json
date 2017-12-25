@@ -1,7 +1,7 @@
 {
   "name": "language-fm-pug",
   "main": "./lib/language-fm-pug",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds Front Matter support. Useful for using pug in static site generation.",
   "keywords": [
     "pug",
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
